@@ -1,0 +1,65 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "antiout": {
+      "deltaNext": 5
+    },
+    "cosplay": {},
+    "country": {
+      "reward": 500
+    },
+    "cumshot": {},
+    "datetime": {},
+    "dhbc": {
+      "reward": 1000
+    },
+    "gay": {
+      "deltaNext": 5
+    },
+    "info": {},
+    "notice": {
+      "delayPerGroup": 250
+    },
+    "pokebot": {
+      "deltaNext": 5
+    },
+    "qr": {},
+    "quiz": {
+      "reward": 0
+    },
+    "resend": {
+      "deltaNext": 5
+    },
+    "test": {
+      "deltaNext": 5
+    }
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": []
+}
