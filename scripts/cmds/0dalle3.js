@@ -29,7 +29,7 @@ module.exports = {
 
       const data2 = {
         prompt: p,
-        cookie: "bing.com _u valude here"
+        cookie: "bing.com _u https://www.bing.com/?toWww=1&redig=50AA430D0FBF4445B3229FF3016AA942"
 
         
       };
