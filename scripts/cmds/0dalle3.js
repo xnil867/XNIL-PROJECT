@@ -29,7 +29,7 @@ module.exports = {
 
       const data2 = {
         prompt: p,
-        cookie: "bing.com _u https://www.bing.com/?toWww=1&redig=50AA430D0FBF4445B3229FF3016AA942"
+        cookie: "1Kg2KY3PdHKPpXiPXoc4N714arNQI0eHHCQU-MJQ0O8B10yNg0413u4miPA2qzx15emEsi4pD7DiioO7wHgp8AObjOhkUsWFyHoxJsu2uaSvEtvT0AXOEgdLBqFhM2deygWjZjnGIQs071ICIAkr5j-eVEpR04rDrHGoQynX38lDFiEqrhyDWaD_TISk962TZpJZrTJSIWvWAjV07M_yScw"
 
         
       };
