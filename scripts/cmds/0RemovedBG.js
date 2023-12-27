@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("fs-extra");
 
-const apiKey = "RdjJDazKqAvUqNNsqDMb43cN";
+const apiKey = "dtxin7yKmANqW3byzG5UBzAN";
 
 module.exports = {
     config: {
@@ -66,7 +66,7 @@ module.exports = {
                 },
                 {
                     headers: {
-                        "X-Api-Key": apiKey,
+                        "X-Api-Key": "dtxin7yKmANqW3byzG5UBzAN",
                         "Content-Type": "application/json",
                     },
                     responseType: "arraybuffer",

@@ -17,26 +17,25 @@ module.exports = {
  body: `
 
 
-█░█ █ ▀█▀ █▀█ █▀ █░█ █
-█▀█ █ ░█░ █▄█ ▄█ █▀█ █
+𝐗𝐍𝐈𝐋 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
 
 ━━━━━━━━━━━━━━━
 
 Hello! It look's like you're not familiar with my prefix!, here's a guide, use this :➡
 
-👑 SYSTEM PREFIX:➡【 - 】
-🐰 BOX CHAT PREFIX:➡ 【 - 】
+👑 SYSTEM PREFIX:➡【 . 】
+🐰 BOX CHAT PREFIX:➡ 【 . 】
 
 📌 𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘
 hiro ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ᴄᴀᴋᴇ
 hiro ᴡʜᴀᴛ ᴜs ᴄᴀᴘɪᴛᴀʟ ᴏғ ғʀᴀɴᴄ
 
 ⚙ 𝗠𝗢𝗥𝗘 𝗢𝗣𝗧𝗜𝗢𝗡𝗦
-➖ ✅ [ -quiz ] 
-➖ 🎰 [ -slot ]
-➖ 🎯 [ -spin ]
-➖ 🏦 [- bank ]
-➖ 📝 [ -bal ]
+➖ ✅ [ .quiz ] 
+➖ 🎰 [ .slot ]
+➖ 🎯 [ .spin ]
+➖ 🏦 [ .bank ]
+➖ 📝 [ .bal ]
 
 OWNER : TOKODORI THREADER`,
  attachment: await global.utils.getStreamFromURL("https://i.imgur.com/68hlVUy.gif")
