@@ -61,5 +61,7 @@
       "allow": true
     }
   },
-  "commandUnload": []
+  "commandUnload": [
+    "resend.js"
+  ]
 }
